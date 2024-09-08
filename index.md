@@ -10,4 +10,12 @@ Hi! My name is Nolan Welsh.  I am currently a Master's Student in Renewable Ener
 
 In my free time, I enjoy getting on my bike, poking around somewhere new backcountry skiing, or tinkering around with some new project at home. Always excited about learning new things!
 
+### Maps 
+Here are some maps I made for my Foundations of Earth Data Analytics Class.
 
+This is United Tribes Technical College in  Bismarck, North Dakota 
+
+<embed type="text/html" 
+src="map/uttc.html" 
+width="600" 
+height="600">
