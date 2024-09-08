@@ -17,13 +17,13 @@ This is United Tribes Technical College in  Bismarck, North Dakota
 
 <embed type="text/html" 
 src="/map/uttc.html" 
-width="600" 
-height="600">
+width="400" 
+height="400">
 
 This is a map of the Geysers Geothermal Area in California.  Operated by Calpine, these power plants on the map compose the worlds larget geothermal field, with a nominal capacity of 1442.4 MW!
 Red areas below show the power plants located in this field. 
 
 <embed type="text/html" 
 src="/map/the_geysers.html" 
-width="500" 
-height="300">
+width="600" 
+height="600">
