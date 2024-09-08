@@ -16,6 +16,6 @@ Here are some maps I made for my Foundations of Earth Data Analytics Class.
 This is United Tribes Technical College in  Bismarck, North Dakota 
 
 <embed type="text/html" 
-src="map/uttc.html" 
+src="/map/uttc.html" 
 width="600" 
 height="600">
