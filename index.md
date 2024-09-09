@@ -22,5 +22,8 @@ src="/map/the_geysers.html"
 width="800" 
 height="600">
 
+#### Sources
 <embed type="text/html" 
-src="/map/the_geysers_sources.html" >
+src="/map/the_geysers_sources.html"
+width="800" 
+height="200">
