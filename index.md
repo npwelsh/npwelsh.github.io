@@ -21,3 +21,6 @@ This is a map of the Geysers Geothermal Area in California, highlighting the geo
 src="/map/the_geysers.html" 
 width="800" 
 height="600">
+
+<embed type="text/html" 
+src="/map/the_geysers_sources.html" >
