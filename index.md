@@ -13,6 +13,6 @@ In my free time, I enjoy getting on my bike, poking around somewhere new backcou
 ## Earth Data Science Portfolio Posts
 [Post 1: Maps-The Geyers Geothermal Field](map/map_description.md)
 
-[Post 2: Climate Change-Trends in Elko, NV Precipitation Data](climate/elko_precip_post.md)
+[Post 2: Climate Change-Trends in Elko, NV Precipitation Data](climate/Final_ClimateChange_PortfolioPost_PostWriteup.md)
 
 
