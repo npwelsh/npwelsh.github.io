@@ -11,10 +11,10 @@ Hi! My name is Nolan Welsh.  I am currently a Master's Student in Renewable Ener
 In my free time, I enjoy getting on my bike, poking around somewhere new backcountry skiing, or tinkering around with some new project at home. Always excited about learning new things!
 
 ## Earth Data Science Portfolio Posts
-[Post 1: Maps-The Geyers Geothermal Field](map/map_description.md)
+[Post 1: Maps-The Geysers Geothermal Field](map/map_description.md)
 
 [Post 2: Climate Change-Trends in Elko, NV Precipitation Data](climate/Final_ClimateChange_PortfolioPost_PostWriteup.md)
 
-[Post 3: Sand Hill Crane Occurrences 2023: Migration and Anomalies](migration/sandhill-crane-migration-portfolio-post.html)
+[Post 3: Sand Hill Crane Occurrences 2023: Migration and Anomalies](migration/migration_post.md)
 
 
