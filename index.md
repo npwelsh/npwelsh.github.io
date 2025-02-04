@@ -10,6 +10,8 @@ Hi! My name is Nolan Welsh.  I am currently a Master's Student in Renewable Ener
 
 In my free time, I enjoy getting on my bike, poking around somewhere new backcountry skiing, or tinkering around with some new project at home. Always excited about learning new things!
 
+[View my resume here!](job\Nolan Welsh Resume 2025 Winter.html)
+
 ## Earth Data Science Portfolio Posts
 [Post 1: Maps-The Geysers Geothermal Field](map/map_description.md)
 
