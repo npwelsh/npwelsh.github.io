@@ -1,4 +1,4 @@
-#Throwing Batteries at the Duck: How Energy Storage is Solving California’s Solar Problem
+# Throwing Batteries at the Duck: How Energy Storage is Solving California’s Solar Problem
 <img
 src="Duck Curve Concept.png"
 alt="A cartoon of a hand holding a battery, looking like it will throw, and a confused duck." 
@@ -22,8 +22,8 @@ However, all these above factors create a boon for batteries.  They respond to g
 
 <embed type="text/html" 
 src="battery_additions.html" 
-width="600" 
-height="400" />
+width="800" 
+height="600" />
 
 This has led to more batteries taking up the excess solar load and less natural gas generation during peak hours, illustrated by both graphs below.
 

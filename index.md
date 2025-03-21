@@ -18,7 +18,7 @@ In my free time, I enjoy getting on my bike, poking around somewhere new backcou
 
 This is post exploring  the growth of utility scale batteries in California, and how they are flattening the duck curve.  This was done for my science communication class. 
 
-Click [to read here](ca_batteries/ca_battery_post.mdca_battery_post.md)
+Click [to read here](ca_batteries/ca_battery_post.html)
 
 ### HOMER Software Output Analyzer  
 
