@@ -14,6 +14,12 @@ In my free time, I enjoy getting on my bike, poking around somewhere new backcou
 
 ## Energy Analyst Work
 
+### California Batteries 
+
+This is post exploring  the growth of utility scale batteries in California, and how they are flattening the duck curve.  This was done for my science communication class. 
+
+Click [to read here](ca_batteries/ca_battery_post.mdca_battery_post.md)
+
 ### HOMER Software Output Analyzer  
 
 This project was done as a final for my Microgrids class in conjunction with Earthspark  and is currently ongoing. The goal was to take the outputs from the HOMER Software models to evaluate the
