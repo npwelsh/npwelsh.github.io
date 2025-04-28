@@ -1,3 +1,10 @@
+---
+title: "About Me"
+permalink: /about-me/
+layout: posts
+author_profile: true
+---
+
 <img
 src="/img/thumbnail_IMG_3783.jpg"
 alt="A Profile Picture of Me on a Train" 
