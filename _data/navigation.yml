@@ -4,8 +4,8 @@ main:
     url: /about-me/
   - title: "Consulting"
     url: /Consulting/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Work Samples"
+    url: /work-samples/
   # - title: "Sitemap"
   #   url: /sitemap/
   # title: "Quick-Start Guide"

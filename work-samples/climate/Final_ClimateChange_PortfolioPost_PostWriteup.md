@@ -1,5 +1,10 @@
-# Climate Change in the Northern Great Basin
-## Increasing Rainfall in Elko, NV
+---
+title: Climate Change in the Northern Great Basin - Increasing Rainfall in Elko, NV
+layout: posts
+permalink: /work-samples/climate/
+classes: wide
+author_profile: false
+---
 
 ### Site Description 
 Elko is located in Northwestern Nevada, with a population of over 20,000 people. It is a hub for gold mining (Nevada is the 5th largest gold producer in the world, behind four other countries, and most of that is mined near Elko), as well ranching, tourism, and the casino industry.  It is located on the banks of the Humboldt River. Very isolated, it is the largest city in 130 miles in each direction. It also has my home for three years. 
@@ -22,7 +27,7 @@ Data was downloaded from the above source via API for the entire range of precip
 <img
 src="ElkoPrecipitation.png"
 alt="Graph showing annual precipitation in Elko, NV Plotted against a Trendline" 
-width="25%" />
+width="50%" />
 
 The plotted data against the trendline shows that annual precipitation in Elko has risen, though very slowly.  This is likely due to the effects of climate change.  It is important to note that this data does not show that flooding events are more likely, as it only shows the total amount of rain in a given year.  Another analysis of daily precipitation, using different statistical methods like the Mann-Kendall (M-K) test could be used to see if flooding events are becoming more common.  Still this shows that annual rainfall in Elko, NV is increasing 
 
