@@ -6,7 +6,7 @@ main:
     url: /Consulting/
   - title: "Work Samples"
     url: /work-samples/
-  # - title: "Sitemap"
-  #   url: /sitemap/
-  # title: "Quick-Start Guide"
-  # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Blog Posts"
+    url: /blog/blog-posts/
+  - title: "Communication"
+    url: /communication/

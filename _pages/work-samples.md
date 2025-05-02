@@ -1,19 +1,11 @@
 ---
-title: "Work Samples"
+title: "Data Science"
 permalink: /work-samples/
 layout: posts
 classes: wide
 author_profile: false
 ---
 
-Below are some samples of work I've done. 
-
-
-## Communication 
-
-
-
-##  Data Science Portfolio Posts
 
 These are post showcasing the work I did for my Data Science for Earth Analytics class at CU Boulder.  Click through to see my write ups and code for each. 
 
