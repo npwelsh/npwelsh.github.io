@@ -1,7 +1,7 @@
 ---
 title: "Data Science"
 permalink: /work-samples/
-layout: posts
+layout: single
 classes: wide
 author_profile: false
 ---
