@@ -27,7 +27,7 @@ gallery:
     alt: "Author on top of a mountain"
     title: "Excited to be on the top"
   - url: /assets/img/about-tracks.jpeg
-    image_path:  /assets/img/about-track.jpeg
+    image_path:  /assets/img/about-tracks.jpeg
     alt: "ski tracks going down a field of white snow"
     title: "Ski tracks, both up and down"
 ---
