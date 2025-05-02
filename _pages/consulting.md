@@ -1,10 +1,11 @@
 ---
 title: Consulting
-layout: collection
+layout: single
 permalink: /Consulting/
-collection: portfolio
-entries_layout: grid
 classes: wide
+author_profile: true
+header:
+  overlay_image: /assets/img/consulting-tree.JPG
 ---
 
 In addition to my day job, I also do some consulting on the side, for energy, non-profit, and geology clients

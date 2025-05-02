@@ -1,8 +1,8 @@
 ---
 title: "About Me"
 permalink: /about-me/
-layout: splash
-author_profile: false
+layout: single
+author_profile: true
 header:
   overlay_color: "#0092ca"
 gallery:

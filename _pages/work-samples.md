@@ -1,8 +1,10 @@
 ---
 title: "Data Science"
 permalink: /work-samples/
-layout: single
+layout: splash
 classes: wide
+header:
+  overlay_image: /assets/img/idaho.JPG
 author_profile: false
 ---
 
