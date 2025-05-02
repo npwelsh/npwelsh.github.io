@@ -1,9 +1,11 @@
 ---
 title: Climate Change in the Northern Great Basin - Increasing Rainfall in Elko, NV
-layout: posts
+layout: single 
 permalink: /work-samples/climate/
 classes: wide
 author_profile: false
+header:
+  overlay_image: /assets/img/elko.JPG
 ---
 
 ### Site Description 

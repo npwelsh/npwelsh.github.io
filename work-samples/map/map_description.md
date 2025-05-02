@@ -1,9 +1,11 @@
 ---
 title: The Geyers Geothermal Field
-layout: posts
+layout: single
 permalink: /work-samples/map/
 classes: wide
 author_profile: false
+header:
+  overlay_image: /assets/img/the-geysers.JPG
 ---
 
 ### Map of Power Plants Operated by the Calpine Corporation
